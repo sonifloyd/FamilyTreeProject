@@ -5,4 +5,4 @@
  * @author soni
  *
  */
-package com.sample.familyTree;
+package com.sample.familyTree.bean;
